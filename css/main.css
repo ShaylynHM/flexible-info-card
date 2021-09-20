@@ -40,3 +40,21 @@ img {
   width: 5em;
   margin-right: 1.5rem;
 }
+
+hgroup {
+  width: 1.5em;
+}
+
+h3,
+h4 {
+  margin: 0;
+}
+
+p {
+  max-width: 24em;
+  margin: 0 auto 0 0;
+}
+
+a {
+  background-color: #444;
+}
