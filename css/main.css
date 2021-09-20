@@ -43,7 +43,7 @@ img {
 }
 
 hgroup {
-  width: 1.5em;
+  width: 16em;
 }
 
 h3,
@@ -57,7 +57,10 @@ p {
 }
 
 a {
+  display: flex;
+  flex-wrap: nowrap;
   background-color: #444;
   text-decoration: none;
   color: white;
+  margin: 0;
 }
